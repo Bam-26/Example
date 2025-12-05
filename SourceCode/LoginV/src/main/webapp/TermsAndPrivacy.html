@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <title>Nothing to see here</title>
+    <style>
+        body {
+            background-color: #f8f9fa;
+            background-image: radial-gradient(#dee2e6 1px, transparent 1px);
+            background-size: 20px 20px;
+        }
+        .glitch-text {
+            text-shadow: 2px 2px 0px #dc3545, -2px -2px 0px #0dcaf0;
+        }
+    </style>
+</head>
+
+<body class="d-flex flex-column min-vh-100 justify-content-center align-items-center">
+
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-8 text-center">
+                
+                <div class="mb-4 position-relative d-inline-block">
+                    <i class="fas fa-search text-secondary fa-4x mb-3"></i>
+                    
+                    <i class="fas fa-bug text-danger fa-3x fa-bounce position-absolute" 
+                       style="bottom: -10px; right: -20px; --fa-animation-duration: 1.5s;"></i>
+                       
+                    <i class="fas fa-ghost text-muted fa-2x fa-fade position-absolute" 
+                       style="top: -20px; left: -30px; animation-duration: 3s;"></i>
+                </div>
+
+                <h1 class="display-4 fw-bold text-dark mb-2 glitch-text">
+                    Wait, what?
+                </h1>
+                
+                <h2 class="h4 text-dark fw-bold mb-4">
+                    What are you doing here? 🤨
+                </h2>
+
+                <div class="card border-danger bg-white shadow-sm d-inline-block p-4 mb-5" style="max-width: 500px;">
+                    <p class="lead mb-0 text-secondary">
+                        This is a <strong>No-User Zone</strong>. <br>
+                        Nothing to see here except empty coffee cups and broken code.
+                        <br><br>
+                        <span class="text-danger fw-bold text-uppercase">
+                            <i class="fas fa-exclamation-circle"></i> Go back and search for bugs!
+                        </span>
+                    </p>
+                </div>
+
+                <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
+                    <a href="Login" class="btn btn-primary btn-lg px-5 rounded-pill shadow fw-bold">
+                        <i class="fas fa-door-open me-2"></i>
+                        Run back to Login
+                    </a>
+                </div>
+                
+                <p class="mt-4 text-muted small">
+                    <i class="fas fa-robot"></i> Beep boop. You shouldn't be here.
+                </p>
+
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>

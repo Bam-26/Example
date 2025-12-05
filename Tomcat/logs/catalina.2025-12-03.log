@@ -1,0 +1,52 @@
+03-Dec-2025 12:16:32.167 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.112
+03-Dec-2025 12:16:32.170 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 6 2025 07:46:18 UTC
+03-Dec-2025 12:16:32.170 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.112.0
+03-Dec-2025 12:16:32.170 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+03-Dec-2025 12:16:32.171 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+03-Dec-2025 12:16:32.171 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+03-Dec-2025 12:16:32.171 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Eclipse Adoptium\jdk-11.0.29.7-hotspot
+03-Dec-2025 12:16:32.171 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.29+7
+03-Dec-2025 12:16:32.171 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Eclipse Adoptium
+03-Dec-2025 12:16:32.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\A. Xiamen\2025 - 09\Software Verification and Validation\Assignment 2 - Group\DefectLoginSystem\Tomcat
+03-Dec-2025 12:16:32.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\A. Xiamen\2025 - 09\Software Verification and Validation\Assignment 2 - Group\DefectLoginSystem\Tomcat
+03-Dec-2025 12:16:32.184 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+03-Dec-2025 12:16:32.184 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.invoke=ALL-UNNAMED
+03-Dec-2025 12:16:32.185 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+03-Dec-2025 12:16:32.185 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+03-Dec-2025 12:16:32.185 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+03-Dec-2025 12:16:32.185 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+03-Dec-2025 12:16:32.185 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+03-Dec-2025 12:16:32.185 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\A. Xiamen\2025 - 09\Software Verification and Validation\Assignment 2 - Group\DefectLoginSystem\Tomcat\conf\logging.properties
+03-Dec-2025 12:16:32.185 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+03-Dec-2025 12:16:32.186 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+03-Dec-2025 12:16:32.186 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+03-Dec-2025 12:16:32.186 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+03-Dec-2025 12:16:32.186 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+03-Dec-2025 12:16:32.186 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\A. Xiamen\2025 - 09\Software Verification and Validation\Assignment 2 - Group\DefectLoginSystem\Tomcat
+03-Dec-2025 12:16:32.187 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\A. Xiamen\2025 - 09\Software Verification and Validation\Assignment 2 - Group\DefectLoginSystem\Tomcat
+03-Dec-2025 12:16:32.187 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\A. Xiamen\2025 - 09\Software Verification and Validation\Assignment 2 - Group\DefectLoginSystem\Tomcat\temp
+03-Dec-2025 12:16:32.203 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.1] using APR version [1.7.4].
+03-Dec-2025 12:16:32.203 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+03-Dec-2025 12:16:32.203 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+03-Dec-2025 12:16:32.209 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+03-Dec-2025 12:16:32.463 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+03-Dec-2025 12:16:32.487 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [502] milliseconds
+03-Dec-2025 12:16:32.555 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+03-Dec-2025 12:16:32.555 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.112]
+03-Dec-2025 12:16:32.574 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [D:\A. Xiamen\2025 - 09\Software Verification and Validation\Assignment 2 - Group\DefectLoginSystem\Tomcat\webapps\Login_V.war]
+03-Dec-2025 12:16:33.002 WARNING [main] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [6.0]. Default version will be used.
+03-Dec-2025 12:16:33.810 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Dec-2025 12:16:34.237 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [369] milliseconds.
+03-Dec-2025 12:16:34.257 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [D:\A. Xiamen\2025 - 09\Software Verification and Validation\Assignment 2 - Group\DefectLoginSystem\Tomcat\webapps\Login_V.war] has finished in [1,683] ms
+03-Dec-2025 12:16:34.258 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\A. Xiamen\2025 - 09\Software Verification and Validation\Assignment 2 - Group\DefectLoginSystem\Tomcat\webapps\docs]
+03-Dec-2025 12:16:34.302 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\A. Xiamen\2025 - 09\Software Verification and Validation\Assignment 2 - Group\DefectLoginSystem\Tomcat\webapps\docs] has finished in [44] ms
+03-Dec-2025 12:16:34.303 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\A. Xiamen\2025 - 09\Software Verification and Validation\Assignment 2 - Group\DefectLoginSystem\Tomcat\webapps\examples]
+03-Dec-2025 12:16:34.774 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\A. Xiamen\2025 - 09\Software Verification and Validation\Assignment 2 - Group\DefectLoginSystem\Tomcat\webapps\examples] has finished in [472] ms
+03-Dec-2025 12:16:34.775 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\A. Xiamen\2025 - 09\Software Verification and Validation\Assignment 2 - Group\DefectLoginSystem\Tomcat\webapps\host-manager]
+03-Dec-2025 12:16:34.820 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\A. Xiamen\2025 - 09\Software Verification and Validation\Assignment 2 - Group\DefectLoginSystem\Tomcat\webapps\host-manager] has finished in [45] ms
+03-Dec-2025 12:16:34.821 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\A. Xiamen\2025 - 09\Software Verification and Validation\Assignment 2 - Group\DefectLoginSystem\Tomcat\webapps\manager]
+03-Dec-2025 12:16:34.861 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\A. Xiamen\2025 - 09\Software Verification and Validation\Assignment 2 - Group\DefectLoginSystem\Tomcat\webapps\manager] has finished in [40] ms
+03-Dec-2025 12:16:34.862 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\A. Xiamen\2025 - 09\Software Verification and Validation\Assignment 2 - Group\DefectLoginSystem\Tomcat\webapps\ROOT]
+03-Dec-2025 12:16:34.889 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\A. Xiamen\2025 - 09\Software Verification and Validation\Assignment 2 - Group\DefectLoginSystem\Tomcat\webapps\ROOT] has finished in [27] ms
+03-Dec-2025 12:16:34.897 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+03-Dec-2025 12:16:35.330 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2842] milliseconds
